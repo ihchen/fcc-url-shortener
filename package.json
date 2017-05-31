@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ihchen/fcc-url-shortener/issues"
   },
-  "homepage": "https://github.com/ihchen/fcc-url-shortener#readme"
+  "homepage": "https://github.com/ihchen/fcc-url-shortener#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.27"
+  }
 }
